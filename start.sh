@@ -1,2 +1,2 @@
-uvicorn main:app --relaod --port=8003
+uvicorn app.main:app --relaod --port=8003
 
